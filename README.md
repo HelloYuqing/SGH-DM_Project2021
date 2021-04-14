@@ -10,9 +10,9 @@
 * The distrubution of text features' length
 
 ### PART3: Data Preprocessing
-* Feature trimming
+* Feature Trimming
 * Feature Selection
-* Feature correlation
+* Feature Correlation
 
 ### PART4: Model training, evaluation, and hyperparameter tuning in cross validation
 * Logistic Regression
